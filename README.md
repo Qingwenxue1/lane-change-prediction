@@ -5,6 +5,7 @@ In this study, a lane change prediction model is proposed. Predicting lane chang
  We can open the codes of traffic flow label, as well as the feature extraction. The xgboost-based prediction code and lstm-based trajectory prediction codes are all presented. 
  
 Requirements
+
 scipy>=0.19.0
 numpy>=1.12.1
 pandas>=0.19.2
